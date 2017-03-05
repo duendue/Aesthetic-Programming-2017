@@ -21,7 +21,7 @@ function preload()
   sourceCode[1] = loadImage('assets/SourceCode1.png');
   sourceCode[2] = loadImage('assets/SourceCode2.png');
   sourceCode[3] = loadImage('assets/SourceCode3.png');
-  sound = loadSound('assets/Click.mp3');
+  sound = loadSound('assets/click.mp3');
 }
 
 function setup() 
