@@ -21,7 +21,7 @@ function preload()
   sourceCode[1] = loadImage('assets/SourceCode1.png');
   sourceCode[2] = loadImage('assets/SourceCode2.png');
   sourceCode[3] = loadImage('assets/SourceCode3.png');
-  sound = loadSound('assets/click.mp3');
+  sound = loadSound('assets/Click.mp3');
 }
 
 function setup() 
@@ -77,7 +77,7 @@ function finger()
   if(fing)
   {
     image(img, fingx, height/2 - 25);
-    image(img2, fingx-width, height/2 - 50)
+    image(img2, fingx-1250, height/2 - 50)
     fingx += fingmov;
     if (fingx < wid + 35)
     {
