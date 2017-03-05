@@ -26,7 +26,7 @@ function preload()
 
 function setup() 
 {
-  createCanvas(windowWidth, windowHeight);  
+  createCanvas(1200, 800);  
   fingx = width;
   wid = width/2;
   hei = height/2;
