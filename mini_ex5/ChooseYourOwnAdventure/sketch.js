@@ -12,6 +12,9 @@ function preload()
   
   riverTxt = loadStrings('assets/river.txt');
   riverTxtC = loadStrings('assets/riverC.txt');
+  
+  treeTxt = loadStrings('assets/tree.txt');
+  riverTxtC = loadStrings('assets/treeC.txt');
 }
 
 function setup() 
@@ -66,7 +69,7 @@ function directory()//Casesne i directoryfunktionen beskriver de forskellige kap
       CavePath();
       break;
     case 3:
-      text("You did it!", width/2, height/2);
+      TreePath();
       break;
     case 4:
       break;
