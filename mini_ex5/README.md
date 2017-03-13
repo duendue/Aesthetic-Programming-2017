@@ -1,19 +1,18 @@
-<h2>"Presidential Speech Simulator" & "The Adventure of John Doe"</h2>
+<h5>The following mini_ex assignment ended up turning into two different programs. I have decided to upload both programs, even though one of them doesn’t include the RiTa library. This decision is based on the fact that the majority of the past weeks coding process was spent on the program without the RiTa library.</h5>
+
+<h2>"Presidential Speech Simulator"</h2>
+![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex5/PSS.png)
 
 
+
+<h2>"The Adventure of John Doe"</h2>
+![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex5/AJD.png)
+
+Weblinks:
 [Presidential Speech Simulator](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex5/PresidentialSpeechSimulator/)
 
 [The Adventure of John Doe](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex5/The%20Adventure%20of%20John%20Doe/)
 <h6> Use the 1-, 2-, and 3-keyboard keys to decide what happens to John Doe. </h6>
-
-![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex5/PSS.png)
-
-----------------------------------------------------------------------------------------------------
-
-![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex5/AJD.png)
-
-
-<h5>The following mini_ex assignment ended up turning into two different programs. I have decided to upload both programs, even though one of them doesn’t include the RiTa library. This decision is based on the fact that the majority of the past weeks coding process was spent on the program without the RiTa library.</h5>
 
 
 **“The Adventure of John Doe”** was the original program idea by my study partner Casper Lerche (Github: **LurdKek**) and I. We decided early on in the process (Tuesday) that we wanted to make a Tell-tale adventure game, where the player could choose how he wanted the story to unfold. We spent most of our time trying to get the base code functionality to work. Initially we thought the functions loadString and splitTokens were part of the Rita library. When we realized, this wasn’t the case, we instead tried to implement other RiTa functions into the finished product, but we couldn’t get it to work, without breaking the rest of the software. However, our time wasn’t wasted, as I feel like we both 
