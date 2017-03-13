@@ -10,7 +10,7 @@
 
 Weblinks:
 
-[Presidential Speech Simulator](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex5/PresidentialSpeechSimulator/)
+[Presidential Speech Simulator](https://cdn.rawgit.com/duendue/Aesthetic-Programming-2017/gh-pages/mini_ex5/PresidentialSpeechSimulator/index.html)
 
 [The Adventure of John Doe](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex5/The%20Adventure%20of%20John%20Doe/)
 <h6> Use the 1-, 2-, and 3-keyboard keys to decide what happens to John Doe. </h6>
