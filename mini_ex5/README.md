@@ -9,6 +9,7 @@
 ![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex5/AJD.png)
 
 Weblinks:
+
 [Presidential Speech Simulator](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex5/PresidentialSpeechSimulator/)
 
 [The Adventure of John Doe](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex5/The%20Adventure%20of%20John%20Doe/)
