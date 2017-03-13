@@ -1,8 +1,8 @@
 var lines, markov, data1, data2, x = 160, y = 240;
 
 function preload() {
-  data1 = loadStrings('../../assets/clinton.txt');
-  data2 = loadStrings('../../assets/trump.txt');
+  data1 = loadStrings('assets/clinton.txt');
+  data2 = loadStrings('assets/trump.txt');
 }
 
 function setup() {
