@@ -79,6 +79,9 @@ CaveText()
       break;
     case 11: //Continue story
       ch = 3;
+      caveA = 0;
+      caveB = 0;
+      caveC = 0;
       break;
   }
 }
