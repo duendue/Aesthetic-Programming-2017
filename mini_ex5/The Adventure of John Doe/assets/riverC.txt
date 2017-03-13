@@ -1,0 +1,11 @@
+1: I say to Ye now stick to the path, for your will is mine - mine to hath// 2: Oh C*ap now I'm stressed, go back and turn west
+1: Did John attempt to swim across, the river wild and roaring?// 2: Or did he walk along the banks; safe but also boring?
+	
+1: John turns back, it's the reasonable thing to do// 2: John is strong enough, he continues through
+1: Now, would John go across the bridge, made of wooden planks?// 2: Or would he continue down the (boring) path, along the river banks?
+1: ... He continued back up the river in hopes to find a way over//  he had to get there before dawn, but the cold was getting him slower
+1: restart;
+1: Continue
+1: restart;
+	
+	

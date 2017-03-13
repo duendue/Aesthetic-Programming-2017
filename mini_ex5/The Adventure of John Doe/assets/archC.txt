@@ -1,0 +1,19 @@
+1: "An axe in a glade, it just seems to odd//I think I'll leave it here" is what John Doe thought//2: John took his chance, and approached the stump//And in lack of good rhymes he yelled "Donald Trump"
+1: Continue...
+1: "But why would I need an axe to pick berries?"//-Oh shot up John, and eat your cherries!...
+1: John felt compelled to the archway and chime//And went under the vines smelling of thyme//2: John felt repelled to the archway and chime//And went around it feeling sublime//
+1: Continue...
+1: Continue...
+1: Continue...
+1: Investigate the ancient tree, or...//2: Gather the berries and let it be, or...//
+1: restart;
+1: restart;
+1: Eat blue berry//2: Eat red berry
+1: restart;
+1: restart;
+1: restart;
+1: restart;
+1: restart;
+	
+	
+	
