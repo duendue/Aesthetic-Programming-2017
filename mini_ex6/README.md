@@ -1,7 +1,8 @@
 <h2>RANDOM SNAKES</h2>
+
 [Weblink to Random Snakes](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex6/PersonalGenerativeProgram2/)
 
-![screenshot]
+![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex6/MiniEx6.png)
 
 
 
