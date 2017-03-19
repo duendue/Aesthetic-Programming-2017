@@ -1,5 +1,7 @@
 <h2>RANDOM SNAKES</h2>
+[Weblink to Random Snakes](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex6/PersonalGenerativeProgram2/)
 
+![screenshot]
 
 
 
@@ -17,3 +19,4 @@ In the beginning of this mini_ex i was really excited about the videos on perlin
 
 During the coding process, I also talked about my fellow study mates on which direction to take our programs in. There was a collective agreement around the fact that one of the most frustrating (and perhaps most intriguing) parts about generative art is the lack of control from the creator / programmers’ side. I often found myself changing numbers on variables with now idea of what the outcome would lead to. This made it very hard to create something that felt aesthetically pleasing, as well as being generative. This is also very well described in the article “Generative Art Theory” by Philip Galanter. Galanter states that because of the unpredictable nature of generative code, the line between creativity and authorship becomes blurred (p. 151). I have tried to “fake” the feeling of control by adding a slider which essentially just changes the variables I mentioned earlier during the execution of the program. Somehow this shifts the role of the author from the programmer to whomever watches and interacts with the program as it unfolds. I always like to add elements of interactivity in my programs, because I feel like software should be more than just moving images and sound.
 
+[Perlin Noise Program] 
