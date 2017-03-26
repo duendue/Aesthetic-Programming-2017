@@ -1,6 +1,6 @@
 <H1>THE MASK</H1>
 
-*note: not related to the Jim Carrey movie of the same name*
+*(not related to the Jim Carrey movie of the same name)*
 
 ![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex7/miniex7.png)
 
