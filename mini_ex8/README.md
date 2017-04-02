@@ -8,3 +8,4 @@ The tricky part of this week’s mini_exersice is the fact that we had to modify
 
 The flowcharts help visualizing advanced, non-linear, processes in a somewhat simple manner. Using common symbols to illustrate different events, one can ideally explain the code, even to someone who haven't programmed anything in their life. However, there's the risk of oversimplification the processes which can lead to misunderstanding, confusion, and errors.
 
+![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex8/FlowChart.png)
