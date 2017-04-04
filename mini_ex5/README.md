@@ -1,11 +1,13 @@
 <h5>The following mini_ex assignment ended up turning into two different programs. I have decided to upload both programs, even though one of them doesn’t include the RiTa library. This decision is based on the fact that the majority of the past weeks coding process was spent on the program without the RiTa library.</h5>
 
 <h2>"Presidential Speech Simulator"</h2>
+
 ![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex5/PSS.png)
 
 
 
 <h2>"The Adventure of John Doe"</h2>
+
 ![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex5/AJD.png)
 
 Weblinks:
@@ -13,6 +15,7 @@ Weblinks:
 [Presidential Speech Simulator](https://cdn.rawgit.com/duendue/Aesthetic-Programming-2017/gh-pages/mini_ex5/PresidentialSpeechSimulator/index.html)
 
 [The Adventure of John Doe](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex5/The%20Adventure%20of%20John%20Doe/)
+
 <h6> Use the 1-, 2-, and 3-keyboard keys to decide what happens to John Doe. </h6>
 
 ----------------------------------------------
