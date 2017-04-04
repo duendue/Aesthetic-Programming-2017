@@ -1,7 +1,9 @@
 <h2>Source Code Switch</h2>
+
 ![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex4/SourceCodeScreenShot.png)
 
 [Program 1 Weblink](https://duendue.github.io/Aesthetic-Programming-2017/mini_ex4/SourceCodeSwitch/)
+
 <h4>A Short description of your work and tell us how your work demonstrats the notion of "feedback" or "cybernetics"</h4>
 My initial inspiration for the design was the following video: https://www.youtube.com/watch?v=apVR5Htz0K4.
 I really liked the element of human input as a core aspect of the program. When I worked out how to get the basic interaction elements
