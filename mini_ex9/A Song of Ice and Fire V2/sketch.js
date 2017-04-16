@@ -1,8 +1,8 @@
 //ITERATION 3: 16 PREDEFINED DATES, MUSIC WITH A SOMEWHAT FORM AND STRUCTURE, SOME USER INPUT AND VISUALS
 
 //This is where different segments of the API is called
-var apiIce = 'http://api.openweathermap.org/data/2.5/forecast/daily?q=Antarctica&cnt=16';
-var apiFire = 'http://api.openweathermap.org/data/2.5/forecast/daily?q=Lut Desert&cnt=16';
+var apiIce = 'https://api.openweathermap.org/data/2.5/forecast/daily?q=Antarctica&cnt=16';
+var apiFire = 'https://api.openweathermap.org/data/2.5/forecast/daily?q=Lut Desert&cnt=16';
 var apiKey = '&APPID=2d4ad671106b186d7a7454d254a6ccd7';
 var units = '&units=metric';
 
