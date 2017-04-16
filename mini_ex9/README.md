@@ -1,1 +1,3 @@
-A SONG OF ICE AND FIRE
+TRYING TO GET GITHUB TO EXECUTE MY PROGRAM...
+
+![screenshot](https://github.com/duendue/Aesthetic-Programming-2017/blob/gh-pages/mini_ex9/05onfire1_xp-master768-v2.jpg)
